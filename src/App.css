@@ -12,7 +12,23 @@
 }
 
 .Back-color{
-  color: gold;
-  text-align: right;
-  background-color: #282c34;
+  background-color:lightsteelblue;
+}
+
+.form_input{
+  border-color: dodgerblue;
+  margin: 5px;
+}
+
+.form_button{
+  border-color: dodgerblue;
+  margin-left: 5px;
+}
+
+.author{
+  width: 10vw;
+}
+
+.message_text{
+  width: 30vw;
 }
